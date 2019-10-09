@@ -50,6 +50,6 @@
     "setup": "yarn && yarn validate",
     "lint": "eslint .",
     "functions:build": "netlify-lambda build netlify/functions",
-    "netlify": "npm-run-all --parallel"
+    "netlify": "npm-run-all --parallel build"
   }
 }
