@@ -43,6 +43,10 @@
   "main": "n/a",
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop"
+    "develop": "gatsby develop",
+    "start": "gatsby serve",
+    "setup": "yarn && yarn validate",
+    "lint": "eslint .",
+    "netlify": "npm-run-all --parallel functions:build lint"
   }
 }
