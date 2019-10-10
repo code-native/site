@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-mdx-blog-starter-project",
-  "description": "Gatsby MDX Blog Starter Project",
+  "name": "Code Native",
+  "description": "Code Native Learning",
   "version": "1.0.0",
-  "author": "Robin Wieruch <hello@rwieruch.com> (https://www.robinwieruch.de/)",
-  "repository": "https://github.com/rwieruch/gatsby-mdx-starter-project",
+  "author": "Code Native <gocodenative@gmail.com> (https://www.codenative.org/)",
+  "repository": "https://github.com/code-native/site.git",
   "dependencies": {
     "@mdx-js/mdx": "^1.0.21",
     "@mdx-js/react": "^1.0.21",
@@ -39,7 +39,7 @@
     "netlify-lambda": "^1.6.3"
   },
   "keywords": [
-    "gatsby"
+    "code, learning, programming, computer science"
   ],
   "license": "MIT",
   "main": "n/a",
