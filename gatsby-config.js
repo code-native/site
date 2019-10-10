@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
-    siteUrl: 'https://www.robinwieruch.de/',
+    siteUrl: 'https://codenative.org/',
     author: 'Code Native',
     title: 'Code Native',
     description: 'Code Native Site',
