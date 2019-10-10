@@ -2,9 +2,9 @@ module.exports = {
   pathPrefix: '/',
   siteMetadata: {
     siteUrl: 'https://www.robinwieruch.de/',
-    author: 'Robin Wieruch',
-    title: 'Gatsby MDX Starter Project',
-    description: 'My Gatsby MDX Starter Project',
+    author: 'Code Native',
+    title: 'Code Native',
+    description: 'Code Native Site',
     keywords: [
       'Software Engineer',
       'Web Developer',
